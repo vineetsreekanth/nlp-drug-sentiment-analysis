@@ -86,8 +86,3 @@ Python, pandas, NumPy, scikit-learn, matplotlib, seaborn, NLTK, re, html
 | `drug_review_sentiment_analysis.ipynb` | Full notebook with code, charts, and analysis |
 
 ---
-
-## Author
-
-**Vineet S P** — Data Analyst, Mysore  
-[Portfolio](https://vineetsreekanth.github.io/Vineet_Portfolio/) · [LinkedIn](https://linkedin.com/in/vineet-s-p-b6367a1b6)
