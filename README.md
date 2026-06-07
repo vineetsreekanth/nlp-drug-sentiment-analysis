@@ -84,5 +84,3 @@ Python, pandas, NumPy, scikit-learn, matplotlib, seaborn, NLTK, re, html
 | File | Description |
 |------|-------------|
 | `drug_review_sentiment_analysis.ipynb` | Full notebook with code, charts, and analysis |
-
----
